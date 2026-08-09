@@ -1,0 +1,8 @@
+{
+  "name": "weather-mcp-render",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx mcp-openweathermap"
+  }
+}
